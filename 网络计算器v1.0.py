@@ -26,7 +26,7 @@ class IPSubnetCalculator(QWidget):
     def __init__(self):
 
         self.current_version = "v1.0"  # 当前程序版本
-        self.version_url = "https://raw.githubusercontent.com/Haisi-1536/Online-Calculator/refs/heads/main/version.txt"  # 版本文件的远程地址
+        self.version_url = "https://raw.githubusercontent.com/Haisi-1536/Mask-Calculator/refs/heads/main/version.txt"  # 版本文件的远程地址
 
         super().__init__()
 
